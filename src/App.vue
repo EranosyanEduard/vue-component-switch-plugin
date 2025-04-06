@@ -1,0 +1,3 @@
+<template>
+  <VLabel></VLabel>
+</template>
